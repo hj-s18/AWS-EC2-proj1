@@ -27,4 +27,4 @@ Install the required dependencies:
 4. Running the Server
    ```bash
    python run.py
-The application will be available at http://127.0.0.1:5000
+The application will be available at http://3.143.22.51:5000
