@@ -1,4 +1,4 @@
-# Study : using AWS EC2 Instance with RDS
+# Notion : use AWS EC2 Instance with RDS
 https://sixth-floor-fad.notion.site/AWS-mini-proj-1-1-RDS-1464d804b09780a88010d217b6747251?pvs=4
 
 # Mood Journal Project
