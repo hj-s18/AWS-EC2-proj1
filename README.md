@@ -12,9 +12,9 @@ A mood journal application built with Flask that allows users to write diary ent
 2. Environment Setup
 Create a .env file in the root directory and add the following configuration:
    ```bash
-   DB_HOST=proj-rds-db.c0k8gjmf4fb9.us-east-2.rds.amazonaws.com
+   DB_HOST= RDB엔드포인트
    DB_USER=admin
-   DB_PASSWORD=test1234!
+   DB_PASSWORD= 비밀번호
    DB_NAME=proj_database
    DB_CHARSET=utf8
 

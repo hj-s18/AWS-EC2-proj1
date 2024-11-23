@@ -12,7 +12,7 @@ def create_app():
     app = Flask(__name__)
     
     # secret_key 설정 (임의의 문자열로 설정)
-    app.secret_key = 'your_secret_key_here' 
+    app.secret_key = 'mini-proj-01-mood-journal-project' 
     # 고유하고 비밀스러운 문자열로 변경하세요
         
     # 로깅 설정
