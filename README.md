@@ -1,3 +1,6 @@
+# Study : using AWS EC2 Instance with RDS
+https://sixth-floor-fad.notion.site/AWS-mini-proj-1-1-RDS-1464d804b09780a88010d217b6747251?pvs=4
+
 # Mood Journal Project
 
 A mood journal application built with Flask that allows users to write diary entries with mood selection, share entries with friends or family, and manage privacy settings.
