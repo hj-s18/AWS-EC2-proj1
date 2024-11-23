@@ -9,22 +9,13 @@ A mood journal application built with Flask that allows users to write diary ent
    git clone <repository-url>
    cd mood_journal_project
 
-2. Environment Setup
-Create a .env file in the root directory and add the following configuration:
-   ```bash
-   DB_HOST= RDB엔드포인트
-   DB_USER=admin
-   DB_PASSWORD= 비밀번호
-   DB_NAME=proj_database
-   DB_CHARSET=utf8
-
-3. Installation
+2. Installation
 Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
 
-4. Running the Server
+3. Running the Server
    ```bash
    python run.py
 The application will be available at http://3.143.22.51:5000
