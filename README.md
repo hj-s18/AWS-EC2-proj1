@@ -1,5 +1,9 @@
 # Notion : use AWS EC2 Instance with RDS
+public RDS
 https://sixth-floor-fad.notion.site/AWS-mini-proj-1-1-RDS-1464d804b09780a88010d217b6747251?pvs=4
+
+private RDS
+https://sixth-floor-fad.notion.site/AWS-mini-proj-1-2-RDS-1484d804b09780a496ffde2431ccd849?pvs=4
 
 # Mood Journal Project
 
