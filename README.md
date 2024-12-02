@@ -1,12 +1,14 @@
 # Notion : use AWS EC2 Instance
-Public RDS
+### Public RDS
 https://sixth-floor-fad.notion.site/AWS-mini-proj-1-1-RDS-1464d804b09780a88010d217b6747251?pvs=4
 
-Private RDS
-use VPC endpoing : https://sixth-floor-fad.notion.site/AWS-mini-proj-1-2-RDS-1484d804b09780a496ffde2431ccd849?pvs=4
-use NAT gateway : https://sixth-floor-fad.notion.site/AWS-mini-proj-1-3-RDS-NAT-1504d804b097803a85abfed307b60260?pvs=4
+### Private RDS
+##### use VPC endpoing : 
+https://sixth-floor-fad.notion.site/AWS-mini-proj-1-2-RDS-1484d804b09780a496ffde2431ccd849?pvs=4
+##### use NAT gateway : 
+https://sixth-floor-fad.notion.site/AWS-mini-proj-1-3-RDS-NAT-1504d804b097803a85abfed307b60260?pvs=4
 
-Instance in Private Subnet
+### Instance in Private Subnet
 https://sixth-floor-fad.notion.site/AWS-mini-proj-1-3-RDS-MySQL-private-subnet-ec2-1484d804b09780edb7fcc027b9e3c14f?pvs=4
 
 # Mood Journal Project
